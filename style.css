@@ -33,24 +33,25 @@ nav ul li a{
   font-family: sans-serif;
 }
 
+
+
+
 .annonce {
-  padding: 150px 150px ;
-  
+  padding: 100px 100px;
+  float: left;
   font-size: 30px;
   font-family: sans-serif;
-  float: left;
-  width: 50%;
-  height: 951px;
   background-color: #336699;
   color: white;
   margin-top: 10px;
-  
+  width: 50%;
+  height: 100vh;
 }
 
 
 
 .annonce button{
-	margin: 50px ;
+  margin-top: 10%;
   color: #ffffff;
   height: 70px;
   width: 500px;
@@ -59,14 +60,12 @@ nav ul li a{
   font-size: 22px;
   font-weight: 700;
   background-color: #ff2063;
-	
+  
 }
 
 .photo img{
-  float: right;
+ float: right;
   margin-top: 10px;
-  width: 951px;
-  height: 951px;
-
-  
+  width: 50%;
+  height: 100vh;
 }
